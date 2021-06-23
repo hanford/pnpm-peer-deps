@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "pnpm run dev --filter app",
+    "build": "pnpm run build --filter design-system"
+  }
+}
